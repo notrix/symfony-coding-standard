@@ -21,13 +21,13 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ludofleury/symfony-coding-standard/issues",
-        "source": "https://github.com/ludofleury/symfony-coding-standard"
+        "issues": "https://github.com/notrix/symfony-coding-standard/issues",
+        "source": "https://github.com/notrix/symfony-coding-standard"
     },
     "require": {
         "php": ">=5.4.0"
     },
-    "target-dir": "Symfony2",
+    "target-dir": "Symfony",
     "suggest": {
         "squizlabs/php_codesniffer": "*"
     }

@@ -136,7 +136,7 @@ class Symfony_Sniffs_Formatting_PropertyAndMethodOrderSniff extends PHP_CodeSnif
 
                 if (!in_array($visibility, $allowedVisibilities)) {
                     $phpcsFile->addError(
-                        'Methods must me ordered public, protect, private',
+                        'Methods must be ordered public, protect, private',
                         $stackPtr
                     );
                 } else {

@@ -36,5 +36,8 @@
 
     <!-- use squiz sniff for space around operators -->
     <rule ref="Squiz.WhiteSpace.OperatorSpacing"/>
+
+    <!-- use squiz sniff for camelCase, not underscores, for variable -->
+    <rule ref="Squiz.NamingConventions.ValidVariableName"/>
 </ruleset>
 

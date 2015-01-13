@@ -42,4 +42,3 @@
         <exclude name="Squiz.NamingConventions.ValidVariableName.PrivateNoUnderscore"/>
     </rule>
 </ruleset>
-
